@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nebula1501
-- 👀 I’m interested in Gaming, 3D Designing
-- 🌱 I’m currently learning Game development in C# and C++
+- 👀 I’m interested in Gaming, 3D Art (Technical Artist)
+- 🌱 I’m currently learning Game Development in C# and C++
 - 💞️ I’m looking to collaborate on Game projects
 - 📫 How to reach me @Toxic.t15 instagram!
 - 😄 Pronouns: She/Her
